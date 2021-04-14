@@ -1,3 +1,11 @@
+/********************************************************************************
+ * Author: Robert Henderson
+ * Date: 4-13-2021
+ * Adapted From: Mike Hostetler
+ *      Assignment: Student Example 7
+ *      Date: 1-4-2009
+ ********************************************************************************/
+
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
